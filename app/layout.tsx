@@ -14,8 +14,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Haber Sitesi",
-  description: "New York Times tarzı haber sitesi",
+  title: "Haber",
+  description: "Güvenilir haber kaynağınız",
 };
 
 export default function RootLayout({
